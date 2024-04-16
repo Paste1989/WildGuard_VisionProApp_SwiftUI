@@ -1,6 +1,6 @@
 //
-//  ABCApp.swift
-//  ABC
+//  WildGuard_VisionProApp.swift
+//  WildGuard_VisionProApp
 //
 //  Created by Saša Brezovac on 27.01.2024..
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ABCApp: App {
+struct WildGuard_VisionProApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

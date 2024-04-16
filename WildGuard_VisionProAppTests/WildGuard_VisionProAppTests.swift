@@ -1,14 +1,14 @@
 //
-//  ABCTests.swift
-//  ABCTests
+//  WildGuard_VisionProApp.swift
+//  WildGuard_VisionProApp
 //
 //  Created by Saša Brezovac on 27.01.2024..
 //
 
 import XCTest
-@testable import ABC
+@testable import WildGuard_VisionProApp
 
-class ABCTests: XCTestCase {
+class WildGuard_VisionProAppTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

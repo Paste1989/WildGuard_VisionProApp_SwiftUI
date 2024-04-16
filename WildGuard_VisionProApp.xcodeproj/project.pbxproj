@@ -8,9 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		B7589C262B657387004571FB /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = B7589C252B657387004571FB /* RealityKitContent */; };
-		B7589C282B657387004571FB /* ABCApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C272B657387004571FB /* ABCApp.swift */; };
+		B7589C282B657387004571FB /* WildGuard_VisionProApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C272B657387004571FB /* WildGuard_VisionProApp.swift */; };
 		B7589C2C2B657387004571FB /* ImmersiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C2B2B657387004571FB /* ImmersiveView.swift */; };
-		B7589C3E2B657388004571FB /* ABCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C3D2B657388004571FB /* ABCTests.swift */; };
+		B7589C3E2B657388004571FB /* WildGuard_VisionProAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C3D2B657388004571FB /* WildGuard_VisionProAppTests.swift */; };
 		B7589C572B65742E004571FB /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C472B65742D004571FB /* CategoryView.swift */; };
 		B7589C592B65742E004571FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C492B65742E004571FB /* ContentView.swift */; };
 		B7589C5A2B65742E004571FB /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C4A2B65742E004571FB /* HomeView.swift */; };
@@ -22,7 +22,7 @@
 		B7589C642B65742E004571FB /* ZoomedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C542B65742E004571FB /* ZoomedView.swift */; };
 		B7589C652B65742E004571FB /* AnimalRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C552B65742E004571FB /* AnimalRow.swift */; };
 		B7589C662B65742E004571FB /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7589C562B65742E004571FB /* Bundle-Decodable.swift */; };
-		B7589C782B657EA8004571FB /* ABCApp.swift in Resources */ = {isa = PBXBuildFile; fileRef = B7589C272B657387004571FB /* ABCApp.swift */; };
+		B7589C782B657EA8004571FB /* WildGuard_VisionProApp.swift in Resources */ = {isa = PBXBuildFile; fileRef = B7589C272B657387004571FB /* WildGuard_VisionProApp.swift */; };
 		B7589C792B657EA8004571FB /* ImmersiveView.swift in Resources */ = {isa = PBXBuildFile; fileRef = B7589C2B2B657387004571FB /* ImmersiveView.swift */; };
 		B7589C7A2B657EA8004571FB /* Animal.swift in Resources */ = {isa = PBXBuildFile; fileRef = B7589C532B65742E004571FB /* Animal.swift */; };
 		B7589C7B2B657EA8004571FB /* AnimalRow.swift in Resources */ = {isa = PBXBuildFile; fileRef = B7589C552B65742E004571FB /* AnimalRow.swift */; };
@@ -52,15 +52,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B7589C202B657387004571FB /* ABC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ABC.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7589C202B657387004571FB /* WildGuard_VisionProApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WildGuard_VisionProApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B7589C242B657387004571FB /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
-		B7589C272B657387004571FB /* ABCApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABCApp.swift; sourceTree = "<group>"; };
+		B7589C272B657387004571FB /* WildGuard_VisionProApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WildGuard_VisionProApp.swift; sourceTree = "<group>"; };
 		B7589C2B2B657387004571FB /* ImmersiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImmersiveView.swift; sourceTree = "<group>"; };
 		B7589C2D2B657387004571FB /* ImageBasedLighting.skybox */ = {isa = PBXFileReference; lastKnownFileType = file.skybox; path = ImageBasedLighting.skybox; sourceTree = "<group>"; };
 		B7589C322B657388004571FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B7589C342B657388004571FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B7589C392B657388004571FB /* ABCTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ABCTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		B7589C3D2B657388004571FB /* ABCTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ABCTests.swift; sourceTree = "<group>"; };
+		B7589C392B657388004571FB /* WildGuard_VisionProAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WildGuard_VisionProAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7589C3D2B657388004571FB /* WildGuard_VisionProAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WildGuard_VisionProAppTests.swift; sourceTree = "<group>"; };
 		B7589C472B65742D004571FB /* CategoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
 		B7589C492B65742E004571FB /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = "../../../Downloads/wildguard (1)/WildGuard/ContentView.swift"; sourceTree = "<group>"; };
 		B7589C4A2B65742E004571FB /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -100,9 +100,9 @@
 		B7589C172B657387004571FB = {
 			isa = PBXGroup;
 			children = (
-				B7589C222B657387004571FB /* ABC */,
+				B7589C222B657387004571FB /* WildGuard_VisionProApp */,
 				B7589C232B657387004571FB /* Packages */,
-				B7589C3C2B657388004571FB /* ABCTests */,
+				B7589C3C2B657388004571FB /* WildGuard_VisionProAppTests */,
 				B7589C212B657387004571FB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -110,16 +110,16 @@
 		B7589C212B657387004571FB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B7589C202B657387004571FB /* ABC.app */,
-				B7589C392B657388004571FB /* ABCTests.xctest */,
+				B7589C202B657387004571FB /* WildGuard_VisionProApp.app */,
+				B7589C392B657388004571FB /* WildGuard_VisionProAppTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B7589C222B657387004571FB /* ABC */ = {
+		B7589C222B657387004571FB /* WildGuard_VisionProApp */ = {
 			isa = PBXGroup;
 			children = (
-				B7589C272B657387004571FB /* ABCApp.swift */,
+				B7589C272B657387004571FB /* WildGuard_VisionProApp.swift */,
 				B7589C492B65742E004571FB /* ContentView.swift */,
 				B7589C4A2B65742E004571FB /* HomeView.swift */,
 				B7589C532B65742E004571FB /* Animal.swift */,
@@ -140,7 +140,7 @@
 				B7589C342B657388004571FB /* Info.plist */,
 				B7589C312B657388004571FB /* Preview Content */,
 			);
-			path = ABC;
+			path = WildGuard_VisionProApp;
 			sourceTree = "<group>";
 		};
 		B7589C232B657387004571FB /* Packages */ = {
@@ -159,20 +159,20 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		B7589C3C2B657388004571FB /* ABCTests */ = {
+		B7589C3C2B657388004571FB /* WildGuard_VisionProAppTests */ = {
 			isa = PBXGroup;
 			children = (
-				B7589C3D2B657388004571FB /* ABCTests.swift */,
+				B7589C3D2B657388004571FB /* WildGuard_VisionProAppTests.swift */,
 			);
-			path = ABCTests;
+			path = WildGuard_VisionProAppTests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B7589C1F2B657387004571FB /* ABC */ = {
+		B7589C1F2B657387004571FB /* WildGuard_VisionProApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B7589C412B657388004571FB /* Build configuration list for PBXNativeTarget "ABC" */;
+			buildConfigurationList = B7589C412B657388004571FB /* Build configuration list for PBXNativeTarget "WildGuard_VisionProApp" */;
 			buildPhases = (
 				B7589C1C2B657387004571FB /* Sources */,
 				B7589C1D2B657387004571FB /* Frameworks */,
@@ -182,17 +182,17 @@
 			);
 			dependencies = (
 			);
-			name = ABC;
+			name = WildGuard_VisionProApp;
 			packageProductDependencies = (
 				B7589C252B657387004571FB /* RealityKitContent */,
 			);
 			productName = ABC;
-			productReference = B7589C202B657387004571FB /* ABC.app */;
+			productReference = B7589C202B657387004571FB /* WildGuard_VisionProApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B7589C382B657388004571FB /* ABCTests */ = {
+		B7589C382B657388004571FB /* WildGuard_VisionProAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B7589C442B657388004571FB /* Build configuration list for PBXNativeTarget "ABCTests" */;
+			buildConfigurationList = B7589C442B657388004571FB /* Build configuration list for PBXNativeTarget "WildGuard_VisionProAppTests" */;
 			buildPhases = (
 				B7589C352B657388004571FB /* Sources */,
 				B7589C362B657388004571FB /* Frameworks */,
@@ -203,9 +203,9 @@
 			dependencies = (
 				B7589C3B2B657388004571FB /* PBXTargetDependency */,
 			);
-			name = ABCTests;
+			name = WildGuard_VisionProAppTests;
 			productName = ABCTests;
-			productReference = B7589C392B657388004571FB /* ABCTests.xctest */;
+			productReference = B7589C392B657388004571FB /* WildGuard_VisionProAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -227,7 +227,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B7589C1B2B657387004571FB /* Build configuration list for PBXProject "ABC" */;
+			buildConfigurationList = B7589C1B2B657387004571FB /* Build configuration list for PBXProject "WildGuard_VisionProApp" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -240,8 +240,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B7589C1F2B657387004571FB /* ABC */,
-				B7589C382B657388004571FB /* ABCTests */,
+				B7589C1F2B657387004571FB /* WildGuard_VisionProApp */,
+				B7589C382B657388004571FB /* WildGuard_VisionProAppTests */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7589C782B657EA8004571FB /* ABCApp.swift in Resources */,
+				B7589C782B657EA8004571FB /* WildGuard_VisionProApp.swift in Resources */,
 				B7589C792B657EA8004571FB /* ImmersiveView.swift in Resources */,
 				B7589C7A2B657EA8004571FB /* Animal.swift in Resources */,
 				B7589C7B2B657EA8004571FB /* AnimalRow.swift in Resources */,
@@ -289,7 +289,7 @@
 				B7589C5B2B65742E004571FB /* AnimalView.swift in Sources */,
 				B7589C662B65742E004571FB /* Bundle-Decodable.swift in Sources */,
 				B7589C5A2B65742E004571FB /* HomeView.swift in Sources */,
-				B7589C282B657387004571FB /* ABCApp.swift in Sources */,
+				B7589C282B657387004571FB /* WildGuard_VisionProApp.swift in Sources */,
 				B7589C632B65742E004571FB /* Animal.swift in Sources */,
 				B7589C652B65742E004571FB /* AnimalRow.swift in Sources */,
 				B7589C602B65742E004571FB /* DataController.swift in Sources */,
@@ -305,7 +305,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B7589C3E2B657388004571FB /* ABCTests.swift in Sources */,
+				B7589C3E2B657388004571FB /* WildGuard_VisionProAppTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -314,7 +314,7 @@
 /* Begin PBXTargetDependency section */
 		B7589C3B2B657388004571FB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B7589C1F2B657387004571FB /* ABC */;
+			target = B7589C1F2B657387004571FB /* WildGuard_VisionProApp */;
 			targetProxy = B7589C3A2B657388004571FB /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -446,7 +446,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ABC/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"WildGuard_VisionProApp/Preview Content\"";
 				DEVELOPMENT_TEAM = QHG34765G4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -456,7 +456,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ABC.ABC;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.WildGuard_VisionProApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -472,7 +472,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"ABC/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"WildGuard_VisionProApp/Preview Content\"";
 				DEVELOPMENT_TEAM = QHG34765G4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -482,7 +482,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ABC.ABC;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.WildGuard_VisionProApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -501,13 +501,13 @@
 				DEVELOPMENT_TEAM = QHG34765G4;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ABC.ABCTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.WildGuard_VisionProApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ABC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ABC";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WildGuard_VisionProApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WildGuard_VisionProApp";
 				XROS_DEPLOYMENT_TARGET = 1.0;
 			};
 			name = Debug;
@@ -522,13 +522,13 @@
 				DEVELOPMENT_TEAM = QHG34765G4;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.ABC.ABCTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.paste1989.WildGuard_VisionProApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "xros xrsimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ABC.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ABC";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WildGuard_VisionProApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/WildGuard_VisionProApp";
 				XROS_DEPLOYMENT_TARGET = 1.0;
 			};
 			name = Release;
@@ -536,7 +536,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B7589C1B2B657387004571FB /* Build configuration list for PBXProject "ABC" */ = {
+		B7589C1B2B657387004571FB /* Build configuration list for PBXProject "WildGuard_VisionProApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B7589C3F2B657388004571FB /* Debug */,
@@ -545,7 +545,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B7589C412B657388004571FB /* Build configuration list for PBXNativeTarget "ABC" */ = {
+		B7589C412B657388004571FB /* Build configuration list for PBXNativeTarget "WildGuard_VisionProApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B7589C422B657388004571FB /* Debug */,
@@ -554,7 +554,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B7589C442B657388004571FB /* Build configuration list for PBXNativeTarget "ABCTests" */ = {
+		B7589C442B657388004571FB /* Build configuration list for PBXNativeTarget "WildGuard_VisionProAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B7589C452B657388004571FB /* Debug */,

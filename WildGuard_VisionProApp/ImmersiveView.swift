@@ -1,6 +1,6 @@
 //
 //  ImmersiveView.swift
-//  ABC
+//  WildGuard_VisionProApp
 //
 //  Created by Saša Brezovac on 27.01.2024..
 //
