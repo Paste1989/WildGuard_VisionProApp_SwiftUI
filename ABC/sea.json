@@ -1,0 +1,90 @@
+[
+  {
+    "englishName": "Hawksbill Turtle",
+    "scientificName": "Eretmochelys imbricata",
+    "continent": "Global (Tropical Oceans)",
+    "estimatedPopulation": "Fewer than 25,000 nesting females",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Hawksbill Turtle is known for its beautiful shell and is primarily found in tropical coral reefs. These turtles contribute to the health of coral reefs and reach maturity at about 30 years of age. Threats include the illegal wildlife trade and loss of nesting habitats, with conservation efforts focusing on habitat protection.",
+    "url": "https://en.wikipedia.org/wiki/Hawksbill_sea_turtle",
+    "mapRotationX": -0.43,
+    "mapRotationY": -3.47
+  },
+  {
+    "englishName": "Vaquita",
+    "scientificName": "Phocoena sinus",
+    "continent": "North America",
+    "estimatedPopulation": "Less than 20",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Vaquita is the world's rarest marine mammal, found only in the northern Gulf of California. These small porpoises are elusive, and little is known about their behavior. Major threats include bycatch in illegal gillnets, with efforts focused on eliminating gillnet use and enforcing protected areas.",
+    "url": "https://en.wikipedia.org/wiki/Vaquita",
+    "mapRotationX": -0.54,
+    "mapRotationY": -2.99
+  },
+  {
+    "englishName": "Blue Whale",
+    "scientificName": "Balaenoptera musculus",
+    "continent": "Global",
+    "estimatedPopulation": "10,000-25,000",
+    "endangeredRating": "Endangered",
+    "description": "The Blue Whale is the largest animal ever known to have existed, inhabiting all oceans. These marine giants play a crucial role in the oceanic ecosystem, influencing the environment through their movements and waste. Threats include collisions with ships, entanglements in fishing gear, and climate change impacts, with conservation focusing on habitat protection and international whaling bans.",
+    "url": "https://en.wikipedia.org/wiki/Blue_whale",
+    "mapRotationX": -0.21,
+    "mapRotationY": -2.09
+  },
+  {
+    "englishName": "North Atlantic Right Whale",
+    "scientificName": "Eubalaena glacialis",
+    "continent": "North America",
+    "estimatedPopulation": "Around 400",
+    "endangeredRating": "Critically Endangered",
+    "description": "Found along the North Atlantic coast, these whales are known for their distinctive callosities. North Atlantic Right Whales are crucial for the marine ecosystem, acting as 'ecosystem engineers'. Major threats include ship strikes and entanglements in fishing gear, with conservation efforts including shipping lane modifications and fishing gear modifications.",
+    "url": "https://en.wikipedia.org/wiki/North_Atlantic_right_whale",
+    "mapRotationX": -0.71,
+    "mapRotationY": -3.48
+  },
+  {
+    "englishName": "Beluga Whale",
+    "scientificName": "Delphinapterus leucas",
+    "continent": "Arctic and Sub-Arctic",
+    "estimatedPopulation": "150,000",
+    "endangeredRating": "Near Threatened",
+    "description": "Beluga Whales, known for their white color and vocalizations, inhabit cold Arctic and Sub-Arctic waters. They are social animals, living in groups and known as 'canaries of the sea' due to their diverse range of sounds. Threats include habitat degradation due to climate change, pollution, and hunting, with conservation efforts focusing on habitat protection and pollution control.",
+    "url": "https://en.wikipedia.org/wiki/Beluga_whale",
+    "mapRotationX": -1.36,
+    "mapRotationY": -4.13
+  },
+  {
+    "englishName": "Leatherback Turtle",
+    "scientificName": "Dermochelys coriacea",
+    "continent": "Global",
+    "estimatedPopulation": "34,000-36,000 nesting females",
+    "endangeredRating": "Vulnerable",
+    "description": "The Leatherback Turtle, the largest of all sea turtles, is known for its leather-like shell and large size. These turtles play a significant role in marine ecosystems, particularly in jellyfish population control. Threats include bycatch in fishing gear, marine pollution, and climate change, with conservation efforts focusing on protecting nesting beaches and reducing bycatch.",
+    "url": "https://en.wikipedia.org/wiki/Leatherback_sea_turtle",
+    "mapRotationX": -0.2,
+    "mapRotationY": -3.76
+  },
+  {
+    "englishName": "Green Turtle",
+    "scientificName": "Chelonia mydas",
+    "continent": "Global",
+    "estimatedPopulation": "85,000-90,000 nesting females",
+    "endangeredRating": "Endangered",
+    "description": "The Green Turtle is widely distributed and is known for its role in maintaining the health of seagrass beds and coral reefs. They are long-lived species but face a high mortality rate in their early years and a long maturation period. Major threats include habitat loss, bycatch, and illegal trade, with conservation strategies including habitat protection and regulations on fishing practices.",
+    "url": "https://en.wikipedia.org/wiki/Green_sea_turtle",
+    "mapRotationX": -0.45,
+    "mapRotationY": -3.36
+  },
+  {
+    "englishName": "Galapagos Penguin",
+    "scientificName": "Spheniscus mendiculus",
+    "continent": "South America",
+    "estimatedPopulation": "Around 1,200",
+    "endangeredRating": "Endangered",
+    "description": "The Galapagos Penguin, the only penguin species found north of the equator, is native to the Galapagos Islands. These penguins are adapted to a warmer climate but are vulnerable to water temperature changes due to their limited range. Threats include climate change, particularly El Niño events, pollution, and human disturbance, with efforts focused on habitat protection and climate research.",
+    "url": "https://en.wikipedia.org/wiki/Galapagos_penguin",
+    "mapRotationX": -0.03,
+    "mapRotationY": -3.22
+  }
+]

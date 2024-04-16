@@ -1,0 +1,90 @@
+[
+  {
+    "englishName": "California Condor",
+    "scientificName": "Gymnogyps californianus",
+    "continent": "North America",
+    "estimatedPopulation": "Around 500 (wild and captivity)",
+    "endangeredRating": "Critically Endangered",
+    "description": "The California Condor, North America's largest land bird, is known for its impressive wingspan and scavenging habits. These birds play a crucial role in their ecosystem as nature's cleanup crew, feeding on carrion. Threats include lead poisoning, microtrash ingestion, and habitat loss, with conservation efforts focusing on captive breeding and habitat protection.",
+    "url": "https://en.wikipedia.org/wiki/California_condor",
+    "mapRotationX": -0.7,
+    "mapRotationY": -2.75
+  },
+  {
+    "englishName": "Philippine Eagle",
+    "scientificName": "Pithecophaga jefferyi",
+    "continent": "Asia",
+    "estimatedPopulation": "Fewer than 800",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Philippine Eagle, one of the largest and most powerful birds in the world, is endemic to the Philippines. It's a top predator in its habitat, playing a vital role in maintaining the ecological balance of the forest. Major threats include deforestation, hunting, and pollution, with conservation efforts focusing on habitat preservation and local education programs.",
+    "url": "https://en.wikipedia.org/wiki/Philippine_eagle",
+    "mapRotationX": -0.3,
+    "mapRotationY": -0.52
+  },
+  {
+    "englishName": "Whooping Crane",
+    "scientificName": "Grus americana",
+    "continent": "North America",
+    "estimatedPopulation": "Around 800",
+    "endangeredRating": "Endangered",
+    "description": "The Whooping Crane, famous for its size and distinctive call, is North America's tallest bird. These cranes are important to their wetland habitats, aiding in the ecosystem's overall health. Threats include habitat loss, human disturbances, and climate change, with conservation efforts involving captive breeding and habitat management.",
+    "url": "https://en.wikipedia.org/wiki/Whooping_crane",
+    "mapRotationX": -1.04,
+    "mapRotationY": -3.38
+  },
+  {
+    "englishName": "Kakapo",
+    "scientificName": "Strigops habroptilus",
+    "continent": "Oceania",
+    "estimatedPopulation": "Less than 250",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Kakapo, a flightless nocturnal parrot native to New Zealand, is known for its unique characteristics and vulnerability. As a flightless bird, it evolved in an environment free of mammalian predators, which has contributed to its current endangered status. Threats include predation by introduced species and habitat destruction, with conservation focused on predator control and breeding programs.",
+    "url": "https://en.wikipedia.org/wiki/Kākāpō",
+    "mapRotationX": 0.66,
+    "mapRotationY": -1.45
+  },
+  {
+    "englishName": "Bengal Florican",
+    "scientificName": "Houbaropsis bengalensis",
+    "continent": "Asia",
+    "estimatedPopulation": "Less than 1,000",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Bengal Florican, a small bustard found in the Indian Subcontinent, is known for its spectacular courtship display. This bird inhabits grasslands and is a key species in maintaining the biodiversity of its habitat. Threats include habitat loss due to agricultural expansion, human disturbance, and poaching, with conservation efforts focusing on habitat protection and management.",
+    "url": "https://en.wikipedia.org/wiki/Bengal_florican",
+    "mapRotationX": -0.36,
+    "mapRotationY": -0.29
+  },
+  {
+    "englishName": "Spoon-billed Sandpiper",
+    "scientificName": "Calidris pygmaea",
+    "continent": "Asia",
+    "estimatedPopulation": "Fewer than 500",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Spoon-billed Sandpiper, distinguished by its unique spoon-shaped bill, breeds in northeastern Russia and migrates to Southeast Asia. It's a vital part of the coastal ecosystem, feeding on invertebrates in intertidal zones. Major threats include habitat loss due to reclamation projects, climate change, and human disturbance, with conservation efforts focusing on habitat protection and research.",
+    "url": "https://en.wikipedia.org/wiki/Spoon-billed_sandpiper",
+    "mapRotationX": -0.26,
+    "mapRotationY": 0.11
+  },
+  {
+    "englishName": "Madagascar Fish Eagle",
+    "scientificName": "Haliaeetus vociferoides",
+    "continent": "Africa",
+    "estimatedPopulation": "Less than 500",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Madagascar Fish Eagle, found primarily along the northwest coast of Madagascar, is one of the largest birds of prey in the region. This eagle plays a crucial role in the local ecosystem as a top predator, feeding mainly on fish. Threats include habitat destruction, pollution, and reduced prey availability, with conservation actions focusing on habitat conservation and local community involvement.",
+    "url": "https://en.wikipedia.org/wiki/Madagascar_fish_eagle",
+    "mapRotationX": 0.23,
+    "mapRotationY": 0.72
+  },
+  {
+    "englishName": "Golden Eagle",
+    "scientificName": "Aquila chrysaetos",
+    "continent": "North America and Eurasia",
+    "estimatedPopulation": "Undetermined",
+    "endangeredRating": "Least Concern (Variable by Region)",
+    "description": "The Golden Eagle, a majestic raptor widespread in the Northern Hemisphere, is revered for its hunting prowess and strength. These eagles are important in controlling populations of small mammals and birds in their habitats. While not globally endangered, some regional populations face threats from habitat loss and poisoning, with conservation efforts varying by region.",
+    "url": "https://en.wikipedia.org/wiki/Golden_eagle",
+    "mapRotationX": -0.76,
+    "mapRotationY": 3.2
+  }
+]

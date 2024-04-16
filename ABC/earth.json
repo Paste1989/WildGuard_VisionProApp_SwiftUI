@@ -1,0 +1,90 @@
+[
+  {
+    "englishName": "African Elephant",
+    "scientificName": "Loxodonta africana",
+    "continent": "Africa",
+    "estimatedPopulation": "415000",
+    "endangeredRating": "Vulnerable",
+    "description": "The African Elephant is the largest land mammal, known for its significant role in various ecosystems across sub-Saharan Africa. These elephants are crucial for environmental balance, modifying habitats, and aiding in seed dispersal. Threats include habitat loss and poaching for ivory, with conservation efforts focusing on habitat protection and anti-poaching measures.",
+    "url": "https://en.wikipedia.org/wiki/African_elephant",
+    "mapRotationX": 0,
+    "mapRotationY": 1.1
+  },
+  {
+    "englishName": "Javan Rhino",
+    "scientificName": "Rhinoceros sondaicus",
+    "continent": "Asia",
+    "estimatedPopulation": "Less than 70",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Javan Rhino is one of the rarest rhinos, residing primarily in Indonesia's Ujung Kulon National Park. This solitary animal is a key species in its habitat, influencing the structure of tropical rainforests. Major threats include habitat destruction and the lack of genetic diversity, with conservation focused on habitat protection and monitoring.",
+    "url": "https://en.wikipedia.org/wiki/Javan_rhinoceros",
+    "mapRotationX": 0,
+    "mapRotationY": -0.585
+  },
+  {
+    "englishName": "Amur Leopard",
+    "scientificName": "Panthera pardus orientalis",
+    "continent": "Asia",
+    "estimatedPopulation": "Around 100",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Amur Leopard, native to the Russian Far East and China, is known for its beautiful spotted fur and adaptability in various climates. This elusive big cat plays a crucial role in maintaining the balance of their forested habitats. Endangered due to habitat loss, poaching, and prey scarcity, conservation efforts include anti-poaching patrols and habitat restoration.",
+    "url": "https://en.wikipedia.org/wiki/Amur_leopard",
+    "mapRotationX": -0.73,
+    "mapRotationY": -0.43
+  },
+  {
+    "englishName": "Black Rhino",
+    "scientificName": "Diceros bicornis",
+    "continent": "Africa",
+    "estimatedPopulation": "Around 5,500",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Black Rhino, smaller than its African counterpart, the white rhino, is distinguished by its pointed upper lip. Black Rhinos contribute to environmental health by impacting plant growth and structure through their grazing habits. They face threats from poaching for their horns and habitat changes, with conservation focusing on protection and community engagement.",
+    "url": "https://en.wikipedia.org/wiki/Black_rhinoceros",
+    "mapRotationX": 0.05,
+    "mapRotationY": 1.16
+  },
+  {
+    "englishName": "Sumatran Elephant",
+    "scientificName": "Elephas maximus sumatranus",
+    "continent": "Asia",
+    "estimatedPopulation": "Less than 2,000",
+    "endangeredRating": "Critically Endangered",
+    "description": "The Sumatran Elephant, native to the Indonesian island of Sumatra, is known for its smaller size and close family groups. These elephants are vital for maintaining forest ecosystems and biodiversity. Major threats include habitat loss due to deforestation and human-elephant conflict, with efforts to establish protected areas and reduce conflicts.",
+    "url": "https://en.wikipedia.org/wiki/Sumatran_elephant",
+    "mapRotationX": -0.14,
+    "mapRotationY": -0.28
+  },
+  {
+    "englishName": "Mountain Gorilla",
+    "scientificName": "Gorilla beringei beringei",
+    "continent": "Africa",
+    "estimatedPopulation": "About 1,000",
+    "endangeredRating": "Endangered",
+    "description": "The Mountain Gorilla, residing in the forests of central Africa, is known for its powerful build and social structure. As a keystone species, they play a significant role in their ecosystems and contribute to biodiversity. Threats include habitat loss, poaching, and disease, with conservation focusing on protected areas and ecotourism.",
+    "url": "https://en.wikipedia.org/wiki/Mountain_gorilla",
+    "mapRotationX": -0.06,
+    "mapRotationY": 1.05
+  },
+  {
+    "englishName": "Snow Leopard",
+    "scientificName": "Panthera uncia",
+    "continent": "Asia",
+    "estimatedPopulation": "4,000-6,500",
+    "endangeredRating": "Vulnerable",
+    "description": "The Snow Leopard, native to the mountain ranges of Central and South Asia, is renowned for its elusive nature and beautiful coat. These big cats play a crucial role as top predators, maintaining the balance in their high-altitude ecosystems. They are endangered due to poaching, loss of prey, and habitat fragmentation, with conservation efforts including habitat conservation and community-based programs.",
+    "url": "https://en.wikipedia.org/wiki/Snow_leopard",
+    "mapRotationX": -0.49,
+    "mapRotationY": -0.017
+  },
+  {
+    "englishName": "Red Panda",
+    "scientificName": "Ailurus fulgens",
+    "continent": "Asia",
+    "estimatedPopulation": "Less than 10,000",
+    "endangeredRating": "Endangered",
+    "description": "The Red Panda, found in the eastern Himalayas and southwestern China, is known for its distinct red fur and bushy tail. Primarily feeding on bamboo, these small mammals are vital for maintaining the ecological balance in their forest habitats. Their survival is threatened by habitat loss, poaching, and the illegal pet trade, with conservation efforts focused on habitat protection and education.",
+    "url": "https://en.wikipedia.org/wiki/Red_panda",
+    "mapRotationX": -0.47,
+    "mapRotationY": -0.13
+  }
+]

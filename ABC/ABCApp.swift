@@ -13,9 +13,31 @@ struct ABCApp: App {
         WindowGroup {
             ContentView()
         }
-
-        ImmersiveSpace(id: "ImmersiveSpace") {
-            ImmersiveView()
-        }.immersionStyle(selection: .constant(.full), in: .full)
+        
+        //open window
+        WindowGroup(for: String.self) { $string in
+            if let string {
+               Image(string)
+                    .resizable()
+                    .scaledToFill()
+            }
+        }
+        .defaultSize(width: 1000, height: 1000)
+        
+        WindowGroup(for: Animal.self) { $animal in
+            if let animal {
+                ZoomedView(animal: animal)
+            }
+        }
+        .defaultSize(width: 1, height: 1, depth: 0.5, in: .meters)
+        .windowStyle(.volumetric)
+        
+        
+        ImmersiveSpace(id: "Max") {
+            Image("Red Panda")
+                .resizable()
+                .frame(width: 1000, height: 1000)
+        }
+        .immersionStyle(selection: .constant(.full), in: .mixed, .full)
     }
 }
